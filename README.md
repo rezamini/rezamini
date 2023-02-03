@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Reza Amini</h1>
+<h1 align="center">Hi <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Reza Amini</h1>
 <h3 align="center">A software engineer with a love for crafting clean and efficient code. My experience includes working on both front-end and back-end projects. Whether I'm working on a new feature for a web app or optimizing a complex algorithm, I take pride in delivering high-quality, user-friendly solutions.</h3>
 
 <br>
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=rezamini&label=Profile%20views&color=0e75b6&style=flat" alt="rezamini" /> </p> -->
+
+<a href="."> <img align="right" height="320px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> <a/>
+
+<br>
 
 - 🔭 I’m currently working on **Cognitive systems & architecture.**
 
