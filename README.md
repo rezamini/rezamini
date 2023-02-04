@@ -3,15 +3,15 @@
 
 <br>
 
-<a href="."> <img align="right" width="320px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> <a/>
+<a href="."> <img align="right" height="320px" width="420px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> <a/>
 
 <br>
 
-- 🔭 I’m currently working on **Cognitive systems & architecture.**
+- 🔭 I’m currently working on **Cognitive systems & architecture**
 
-- 🌱 I’m currently learning **Cognitive systems & architecture **
+- 🌱 I’m currently learning **Cognitive architecture & intelligent system designs**
 
-- 👯 I’m looking to collaborate with **passionate people and interesting projects.**
+- 👯 I’m looking to collaborate with **passionate people and interesting projects**
 
 - 💬 Ask me about **React, Java, DynamoDB, MySQL and Spring boot**
 
@@ -19,6 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rezaaminib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rezaaminib" height="30" width="40" /></a>
+ <a href="https://stackoverflow.com/users/21069312/reza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21069312/reza" height="30" width="40" /></a>
 </p>
 
 <br>
