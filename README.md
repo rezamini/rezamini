@@ -3,13 +3,13 @@
 
 <br>
 
-<a href="."> <img align="right" height="320px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> <a/>
+<a href="."> <img align="right" width="320px" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" /> <a/>
 
 <br>
 
 - 🔭 I’m currently working on **Cognitive systems & architecture.**
 
-- 🌱 I’m currently learning **Cognitive systems and AWS.**
+- 🌱 I’m currently learning **Cognitive systems & architecture **
 
 - 👯 I’m looking to collaborate with **passionate people and interesting projects.**
 
