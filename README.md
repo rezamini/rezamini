@@ -13,7 +13,13 @@
 
 - 👯 I’m looking to collaborate with **passionate people and interesting projects**
 
-- 💬 Ask me about **React, Java, DynamoDB, MySQL and Spring boot**
+- 💬 Ask me about **Java, React, Redux, DynamoDB, MySQL, NoSQL, JPA and Spring Boot**
+ 
+- 🛠️ Experienced in using **Agile, Scrum, and CI/CD** for efficient delivery of high-quality product.
+ 
+- 💻 Proficient in **various programming languages** and **software development methodologies**, with a keen eye for detail and a focus on maintainable code.
+ 
+- 💼 Committed to **continuous improvement**, with a strong passion for learning and staying up-to-date with the **latest advancements in technology**.
 
 <br>
 <h3 align="left">Connect with me:</h3>
