@@ -34,9 +34,9 @@
 
 <br>
 <p float="left" align="middle">
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezamini&show_icons=true&locale=en&layout=compact&theme=dark" alt="rezamini" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezamini&show_icons=true&locale=en&layout=compact&theme=dark" alt="rezamini" />
 
-<img width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=rezamini&theme=dark" alt="rezamini" />
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=rezamini&theme=dark" alt="rezamini" />
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rezamini&label=Profile%20views&color=0e75b6&style=flat" alt="rezamini" /> </p>
